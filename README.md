@@ -15,7 +15,7 @@ Built in Power BI using Power Query for data cleaning and DAX for custom measure
 - Total Quantity: 38K units
 - Return Rate: 5.91%
 
-## Key Insight: The "Sean Miller Problem"
+
 
 ## Key Insight: The "Sean Miller Problem"
 
